@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\THINKPAD\Downloads\nand2tetris\nand2tetris\projects\06\Assembler\Project 6 n2t\Project 6 n2t\Source.cpp(19,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\THINKPAD\Downloads\nand2tetris\nand2tetris\projects\06\Assembler\Project 6 n2t\Project 6 n2t\Source.cpp(156,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\THINKPAD\Downloads\nand2tetris\nand2tetris\projects\06\Assembler\Project 6 n2t\Project 6 n2t\Source.cpp(310,20): warning C4018: '<': signed/unsigned mismatch
+  Project 6 n2t.vcxproj -> C:\Users\THINKPAD\Downloads\nand2tetris\nand2tetris\projects\06\Assembler\Project 6 n2t\Debug\Project 6 n2t.exe
